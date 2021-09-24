@@ -14,8 +14,7 @@ Image sharpening refers to a technology for improving the boundaries and fine de
 
 # Models:-
 
-Convolution Neural Network (CNN)
 Convolutions neural networks (CNN or ConvNets) is one of the major classifications of objects. The identification of objects, reconnaissance faces etc. are some of the fields of frequent use for CNNs. CNNs have two major elements. 1. Learning features: Transforming, ReLU, Layer pooling stages. In this function learning phase edges, colours, lines and curves are extracted. 2. Classification: In this process, you can find the Fully Connected(FC) layer. They assign a chance to what the algorithm says for the object in the image.
 
-VGG16
+
 VGG16 is a CNN architecture used in 2014 for winning the ILSVR(Imagenet) competition. It has until now been considered one of the most impressive model architectures. The most unusual aspect of VGG16 is that they insisted on making 3x3 philtre layers, with a phase 1, and still used the same 2x2 string filter padding and max-pool layer. The entire architecture is constantly assisted by this arrangement of convolutions and max pool layers. At last, the softmax for the production is 2 FC (fully linked layers). The sixteenth in VGG16 corresponds to a weight of 16 layers.
